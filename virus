@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/Desktop
+touch virus 
+echo “sorry what.. could you please repeat that?” >> virus
+open virus
